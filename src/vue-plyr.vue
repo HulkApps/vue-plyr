@@ -1,6 +1,6 @@
 <script>
 	import Plyr from 'plyr'
-	import 'plyr/dist/plyr.css'
+	import './vue-plyr.css'
 
 	export default {
 		name: 'VuePlyr',
